@@ -1,0 +1,15 @@
+D:\Desenvolvimento\Estudando_POO_Csharp-master\07Construtor\bin\Debug\net7.0\07Construtor.exe
+D:\Desenvolvimento\Estudando_POO_Csharp-master\07Construtor\bin\Debug\net7.0\07Construtor.deps.json
+D:\Desenvolvimento\Estudando_POO_Csharp-master\07Construtor\bin\Debug\net7.0\07Construtor.runtimeconfig.json
+D:\Desenvolvimento\Estudando_POO_Csharp-master\07Construtor\bin\Debug\net7.0\07Construtor.dll
+D:\Desenvolvimento\Estudando_POO_Csharp-master\07Construtor\bin\Debug\net7.0\07Construtor.pdb
+D:\Desenvolvimento\Estudando_POO_Csharp-master\07Construtor\obj\Debug\net7.0\07Construtor.csproj.AssemblyReference.cache
+D:\Desenvolvimento\Estudando_POO_Csharp-master\07Construtor\obj\Debug\net7.0\07Construtor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\Estudando_POO_Csharp-master\07Construtor\obj\Debug\net7.0\07Construtor.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Estudando_POO_Csharp-master\07Construtor\obj\Debug\net7.0\07Construtor.AssemblyInfo.cs
+D:\Desenvolvimento\Estudando_POO_Csharp-master\07Construtor\obj\Debug\net7.0\07Construtor.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Estudando_POO_Csharp-master\07Construtor\obj\Debug\net7.0\07Construtor.dll
+D:\Desenvolvimento\Estudando_POO_Csharp-master\07Construtor\obj\Debug\net7.0\refint\07Construtor.dll
+D:\Desenvolvimento\Estudando_POO_Csharp-master\07Construtor\obj\Debug\net7.0\07Construtor.pdb
+D:\Desenvolvimento\Estudando_POO_Csharp-master\07Construtor\obj\Debug\net7.0\07Construtor.genruntimeconfig.cache
+D:\Desenvolvimento\Estudando_POO_Csharp-master\07Construtor\obj\Debug\net7.0\ref\07Construtor.dll

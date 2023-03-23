@@ -1,0 +1,15 @@
+D:\Desenvolvimento\Estudando_POO_Csharp-master\06Encapsulamento\bin\Debug\net7.0\06Encapsulamento.exe
+D:\Desenvolvimento\Estudando_POO_Csharp-master\06Encapsulamento\bin\Debug\net7.0\06Encapsulamento.deps.json
+D:\Desenvolvimento\Estudando_POO_Csharp-master\06Encapsulamento\bin\Debug\net7.0\06Encapsulamento.runtimeconfig.json
+D:\Desenvolvimento\Estudando_POO_Csharp-master\06Encapsulamento\bin\Debug\net7.0\06Encapsulamento.dll
+D:\Desenvolvimento\Estudando_POO_Csharp-master\06Encapsulamento\bin\Debug\net7.0\06Encapsulamento.pdb
+D:\Desenvolvimento\Estudando_POO_Csharp-master\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.csproj.AssemblyReference.cache
+D:\Desenvolvimento\Estudando_POO_Csharp-master\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\Estudando_POO_Csharp-master\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Estudando_POO_Csharp-master\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.AssemblyInfo.cs
+D:\Desenvolvimento\Estudando_POO_Csharp-master\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Estudando_POO_Csharp-master\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.dll
+D:\Desenvolvimento\Estudando_POO_Csharp-master\06Encapsulamento\obj\Debug\net7.0\refint\06Encapsulamento.dll
+D:\Desenvolvimento\Estudando_POO_Csharp-master\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.pdb
+D:\Desenvolvimento\Estudando_POO_Csharp-master\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.genruntimeconfig.cache
+D:\Desenvolvimento\Estudando_POO_Csharp-master\06Encapsulamento\obj\Debug\net7.0\ref\06Encapsulamento.dll
