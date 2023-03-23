@@ -1,0 +1,15 @@
+C:\Users\841\Documents\OrientaObjetoVS\01Conceitos\bin\Debug\net7.0\01Conceitos.exe
+C:\Users\841\Documents\OrientaObjetoVS\01Conceitos\bin\Debug\net7.0\01Conceitos.deps.json
+C:\Users\841\Documents\OrientaObjetoVS\01Conceitos\bin\Debug\net7.0\01Conceitos.runtimeconfig.json
+C:\Users\841\Documents\OrientaObjetoVS\01Conceitos\bin\Debug\net7.0\01Conceitos.dll
+C:\Users\841\Documents\OrientaObjetoVS\01Conceitos\bin\Debug\net7.0\01Conceitos.pdb
+C:\Users\841\Documents\OrientaObjetoVS\01Conceitos\obj\Debug\net7.0\01Conceitos.csproj.AssemblyReference.cache
+C:\Users\841\Documents\OrientaObjetoVS\01Conceitos\obj\Debug\net7.0\01Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\841\Documents\OrientaObjetoVS\01Conceitos\obj\Debug\net7.0\01Conceitos.AssemblyInfoInputs.cache
+C:\Users\841\Documents\OrientaObjetoVS\01Conceitos\obj\Debug\net7.0\01Conceitos.AssemblyInfo.cs
+C:\Users\841\Documents\OrientaObjetoVS\01Conceitos\obj\Debug\net7.0\01Conceitos.csproj.CoreCompileInputs.cache
+C:\Users\841\Documents\OrientaObjetoVS\01Conceitos\obj\Debug\net7.0\01Conceitos.dll
+C:\Users\841\Documents\OrientaObjetoVS\01Conceitos\obj\Debug\net7.0\refint\01Conceitos.dll
+C:\Users\841\Documents\OrientaObjetoVS\01Conceitos\obj\Debug\net7.0\01Conceitos.pdb
+C:\Users\841\Documents\OrientaObjetoVS\01Conceitos\obj\Debug\net7.0\01Conceitos.genruntimeconfig.cache
+C:\Users\841\Documents\OrientaObjetoVS\01Conceitos\obj\Debug\net7.0\ref\01Conceitos.dll

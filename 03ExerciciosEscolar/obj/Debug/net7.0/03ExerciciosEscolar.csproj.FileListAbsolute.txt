@@ -1,0 +1,15 @@
+C:\Users\841\Documents\OrientaObjetoVS\03ExerciciosEscolar\bin\Debug\net7.0\03ExerciciosEscolar.exe
+C:\Users\841\Documents\OrientaObjetoVS\03ExerciciosEscolar\bin\Debug\net7.0\03ExerciciosEscolar.deps.json
+C:\Users\841\Documents\OrientaObjetoVS\03ExerciciosEscolar\bin\Debug\net7.0\03ExerciciosEscolar.runtimeconfig.json
+C:\Users\841\Documents\OrientaObjetoVS\03ExerciciosEscolar\bin\Debug\net7.0\03ExerciciosEscolar.dll
+C:\Users\841\Documents\OrientaObjetoVS\03ExerciciosEscolar\bin\Debug\net7.0\03ExerciciosEscolar.pdb
+C:\Users\841\Documents\OrientaObjetoVS\03ExerciciosEscolar\obj\Debug\net7.0\03ExerciciosEscolar.csproj.AssemblyReference.cache
+C:\Users\841\Documents\OrientaObjetoVS\03ExerciciosEscolar\obj\Debug\net7.0\03ExerciciosEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\841\Documents\OrientaObjetoVS\03ExerciciosEscolar\obj\Debug\net7.0\03ExerciciosEscolar.AssemblyInfoInputs.cache
+C:\Users\841\Documents\OrientaObjetoVS\03ExerciciosEscolar\obj\Debug\net7.0\03ExerciciosEscolar.AssemblyInfo.cs
+C:\Users\841\Documents\OrientaObjetoVS\03ExerciciosEscolar\obj\Debug\net7.0\03ExerciciosEscolar.csproj.CoreCompileInputs.cache
+C:\Users\841\Documents\OrientaObjetoVS\03ExerciciosEscolar\obj\Debug\net7.0\03ExerciciosEscolar.dll
+C:\Users\841\Documents\OrientaObjetoVS\03ExerciciosEscolar\obj\Debug\net7.0\refint\03ExerciciosEscolar.dll
+C:\Users\841\Documents\OrientaObjetoVS\03ExerciciosEscolar\obj\Debug\net7.0\03ExerciciosEscolar.pdb
+C:\Users\841\Documents\OrientaObjetoVS\03ExerciciosEscolar\obj\Debug\net7.0\03ExerciciosEscolar.genruntimeconfig.cache
+C:\Users\841\Documents\OrientaObjetoVS\03ExerciciosEscolar\obj\Debug\net7.0\ref\03ExerciciosEscolar.dll
