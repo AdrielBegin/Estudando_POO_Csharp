@@ -1,0 +1,15 @@
+D:\Desenvolvimento\Estudando_POO_Csharp-master\08GetSet\bin\Debug\net7.0\08GetSet.exe
+D:\Desenvolvimento\Estudando_POO_Csharp-master\08GetSet\bin\Debug\net7.0\08GetSet.deps.json
+D:\Desenvolvimento\Estudando_POO_Csharp-master\08GetSet\bin\Debug\net7.0\08GetSet.runtimeconfig.json
+D:\Desenvolvimento\Estudando_POO_Csharp-master\08GetSet\bin\Debug\net7.0\08GetSet.dll
+D:\Desenvolvimento\Estudando_POO_Csharp-master\08GetSet\bin\Debug\net7.0\08GetSet.pdb
+D:\Desenvolvimento\Estudando_POO_Csharp-master\08GetSet\obj\Debug\net7.0\08GetSet.csproj.AssemblyReference.cache
+D:\Desenvolvimento\Estudando_POO_Csharp-master\08GetSet\obj\Debug\net7.0\08GetSet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\Estudando_POO_Csharp-master\08GetSet\obj\Debug\net7.0\08GetSet.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Estudando_POO_Csharp-master\08GetSet\obj\Debug\net7.0\08GetSet.AssemblyInfo.cs
+D:\Desenvolvimento\Estudando_POO_Csharp-master\08GetSet\obj\Debug\net7.0\08GetSet.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Estudando_POO_Csharp-master\08GetSet\obj\Debug\net7.0\08GetSet.dll
+D:\Desenvolvimento\Estudando_POO_Csharp-master\08GetSet\obj\Debug\net7.0\refint\08GetSet.dll
+D:\Desenvolvimento\Estudando_POO_Csharp-master\08GetSet\obj\Debug\net7.0\08GetSet.pdb
+D:\Desenvolvimento\Estudando_POO_Csharp-master\08GetSet\obj\Debug\net7.0\08GetSet.genruntimeconfig.cache
+D:\Desenvolvimento\Estudando_POO_Csharp-master\08GetSet\obj\Debug\net7.0\ref\08GetSet.dll
